@@ -1,0 +1,48 @@
+Yican Liu
+
+I am a PhD candidate in Finance at HKU Business School, The University of Hong Kong. My research lies at the intersection of financial technology, financial markets, and development economics. Currently, I focus on providing empirical evidence on how emerging technologies, particularly financial technology, affect household finance, the financial market, and broader economic development.
+
+Working Papers
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5617630Crypto ATMs: Material Effects of Virtual Currencies
+Lin William Cong, Tingyu Feng, Yican Liu, Fangzhou Lu
+Abstract: How cryptocurrencies from the cyberspace influence household finance and the real world? We investigate the economic consequences of cryptocurrency adoption by the main street enabled by crypto ATM installation. Using a unique, hand-collected dataset, we identify a causal relationship between the staggered rollout of crypto ATMs and regions' increased crypto activity and financial participation, as well as an associated increase in local cybercrime and financial frauds. Our findings are especially pronounced on platforms facilitating monetary transactions and in regions with limited banking infrastructure, indicating that crypto ATMs function as shadow intermediaries primarily for unbanked and low-income households. A back-of-the envelope estimate suggests a net welfare gain, but with unequal distribution. Overall, our findings reveal that the liberalized and democratized nature of cryptocurrency exerts a multifaceted impact on the real economy, disrupting traditional financial systems by expanding participation in both the crypto and stock markets, while simultaneously contributing to a rise in cybercrime as an unintended consequence.
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4744745 Happy App Happy Tip: The Return Predictability from Amusement Apps Downloads Around the World
+Tse-Chun Lin, Yican Liu, Fangzhou Lu
+Abstract: As individual investors increasingly rely on smartphones for their daily lives, we construct a measure of real-time investor sentiment based on global amusement app downloads. We find that a one-standard-deviation increase in the last four-week amusement app downloads predicts a 47 bps increase in stock market returns in the next four weeks. We also observe a 31 bps reversal in another four weeks. Amusement app downloads are positively related to subsequent stock trading app downloads, suggesting that investor sentiment drives new stock market participation. Overall, we show that digital footprint in app downloads predicts global market returns via investor sentiment.
+
+AI Exposure and Policy Preferences: Experimental Evidence from Latin America
+RCT Pre-Registration Report Revised and Resubmitted, Journal of Development Economics
+Yiming Cao, Tian Chen, Yican Liu, Guillermo Rosas
+Technological change can transform economies, generating both opportunities and
+disruptions that carry important political and policy consequences. Yet little is known
+about how people respond politically to new technologies at an early stage, when
+their eventual impacts remain uncertain. We study this question in the context of
+generative artificial intelligence (GenAI) through randomized online experiments in
+five Latin American countries with a total of 12,000 participants. Participants are
+asked to perform a series of office-related tasks with or without access to a GenAI-
+powered assistant and then complete a survey on their beliefs about GenAI’s potential
+influence and their preferences across a range of policy areas. To identify how
+these policy preferences are shaped by the beliefs individuals form, we implement
+an additional information treatment that experimentally manipulates perceptions of
+GenAI’s potential impacts. Overall, the project seeks to shed light on how people
+respond to novel technologies whose effects are uncertain and for which they have no
+prior experience—particularly in developing countries that may be more vulnerable
+to such disruptions.
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4928798 How Valuable Are Consumers' Digital Footprints?
+Tingyu Feng, Yican Liu, Fangzhou Lu
+Abstract: We measure firms' value of consumer data, or digital footprints and consumers' privacy preferences by using a combination of option and stock data on various regulatory policies. Standard methods such as CARs underestimate the negative stock returns on consumer-app intensive firms during the passage of GDPR or CCPA. The average negative stock returns range from-10% to-20%, amounting to a market cap loss of 0.44 billions for big tech firms in the GDPR passage, or 1.06 billions in the CCPA passage. Complement to this methodology, we also estimate changes in firm app privacy settings at the mobile-app permission level that allows us to estimate the value of data tracking back to different digital footprints. Permissions that are related to fintech payments worth 2% of a firm's stock price. Additionally, we find that the passage of data protection regulations is associated with the decrease of daily active users of apps, especially for apps with higher data collection intensity. Together, these results suggest that the value of consumer data is a major component of tech firm value.
+
+
+
+
+
+
+
+
+
+
+
+
+
